@@ -110,6 +110,7 @@ public class Test {
         System.out.println(map.containsKey(-100));
         System.out.println("nihao");
         System.out.println("nihao3");
+        System.out.println("nihao4");
     }
 
 }
