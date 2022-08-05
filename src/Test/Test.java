@@ -108,7 +108,7 @@ public class Test {
         HashMap<Integer,Integer> map = new HashMap<>();
         map.put(-100,500);
         System.out.println(map.containsKey(-100));
-
+        System.out.println("nihao");
     }
 
 }
